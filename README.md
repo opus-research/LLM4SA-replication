@@ -3,7 +3,7 @@
 This is the replication package for the paper that contains the scripts and data utilized for the execution of the work.
 
 * The data folder provided the dataset utilized in this work.
-* The output folder provided the output of all models executed for this work.
+* The output folder provided the output of all models executed for this work. The name for each file on this folder is comprised of the model name and the prompt engineering technique associated with the file (0shot = no examples, 1shot = 1 example, 3shot = 3 examples, cotshot = 3 examples + reasoning).
 * The two .ipynb files in the root of the repository are the scripts for the collection and analysis processes utilized in the work, and are named in order of execution)
 
 ## Requirements
