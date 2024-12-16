@@ -17,6 +17,19 @@ In terms of hardware, the main limitation is the execution of ollama. For the mo
 
 The study was executed with a laptop running Windows that has an Intel Core i9 13900HX, 32GB of DDR5 RAM, and a RTX 4090 Laptop with 16GB of VRAM.
 
+## Memory and Storage Requirements
+
+The following table lists the storage requirements for each of the local models utilized in this study. The memory requirement is roughly the same value (can combine RAM with VRAM).
+
+| Model Name         | Memory/Storage Requirement |
+|---------------------|----------------------------|
+| gemma2:9b          | 5.4GB                      |
+| gemma2:27b         | 16GB                       |
+| llama3.1:8b        | 4.9GB                      |
+| llama3.1:70b       | 43GB                       |
+| mistral-nemo:12b   | 7.1GB                      |
+| mistral-small:22b  | 13GB                       |
+
 ## Environment Setup
 
 1. Install the dependencies in your python environent
