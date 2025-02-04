@@ -119,3 +119,7 @@ The schema for the json file provided in this replication package is as follows.
     }
   }
 ```
+
+## Coding
+
+The sample, codes associated with the sample, the codebook, and the analysis described in the paper, is available in the coding/coding.xlsx file.
