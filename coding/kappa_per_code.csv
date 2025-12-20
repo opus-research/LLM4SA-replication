@@ -1,0 +1,21 @@
+code,kappa,support_author1,support_author2
+Ambiguous Tone,1.0,5,5
+Correction as a Question,1.0,4,4
+Lack of Context Awareness,1.0,5,5
+Error Reporting,1.0,20,20
+Use of Slang,1.0,9,9
+Use of Emoji,1.0,11,11
+Links,1.0,14,14
+Message-in-Message Structure,1.0,7,7
+Sentiment Cue at Start,1.0,27,27
+Use of Exclamation Marks,1.0,2,2
+Use of Caps Lock,1.0,1,1
+Suggestion or Instruction,1.0,20,20
+Expression of Uncertainty,0.9579955784819455,14,13
+Code Snippets in Messages,0.9475620975160993,11,10
+Technical Terms,0.9122807017543859,57,58
+Use of Sarcasm,0.8843813387423936,5,4
+Sentiment-Charged Keywords,0.8268646641916976,35,44
+Quoted Words,0.7956989247311828,3,2
+Long message,0.6174496644295302,11,22
+Ambiguity in Word Meaning,0.0,1,0
