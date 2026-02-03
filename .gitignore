@@ -1,2 +1,8 @@
 .idea
 .DS_Store
+.env
+.venv
+*.db
+*.db-shm
+*.db-wal
+__pycache__/
